@@ -86,7 +86,6 @@ Analizar la máxima memoria ram que podemos alojar en la FPGA,  y planear el mé
 
 ### Simulación (TestBench):
 
-Una Vez, resultas las anteriores preguntas se  debe descargar le paquete de trabajo 1 de este link [WP01]
-(https://classroom.github.com/g/Ra4G34mi) 
+Una Vez, resultas las anteriores preguntas se  debe descargar le paquete de trabajo 1 de este link  [WP01](https://classroom.github.com/g/Ra4G34mi) 
 
 
