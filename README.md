@@ -30,14 +30,14 @@ En este setido el plan de trabajo propuesto es:
 
 * WP01: Buffer de memoria  [WP01](https://classroom.github.com/g/Ra4G34mi) 
 	* Semana 1: Buffer de memoria  Simulación (TestBench).  Analizar la máxima memoria ram que podemos alojar en la FPGA,  y planear el método de adquisición de los datos de la cámara 
-* WP02  Captura de Datos
+* WP02  Captura de Datos [WP02](https://classroom.github.com/g/fTcztVJQ)
 	* Semana 2: Captura de datos Construcción del bloque de captura de datos y divisor de frecuencias según hoja de datos de la cámara.
 	* Semana 3: Captura de datos Pruebas físicas con cámara 
 * WP03: Procesador
 	* Semana 4: Introducción al procesador *
-* WP04: envio de información 
+* WP04: Envio de información 
 	* Semana 5: Comunicación serial, gpio 
-* WP05: integración
+* WP05: Integración
 	* Semana 6: Integración del proyecto y pruebas funcionales
 Semana 7: Presentación  
 
@@ -65,6 +65,18 @@ En la evaluación de la documentacion sera  tenida en cuenta la minuciosidad y c
 La documentación se debe  diligenciar en el formato Markdown del archivo ´README.md´ ubicado en docs. Se recomienda revisar el siguiente [link](https://guides.github.com/features/mastering-markdown/) que les da una visión rapida de formato usado para hacer la documentación. 
 
 Recuerde, todos los paquetes de trabajo son obligatorios
+
+## Desarrollo 
+
+WP  | semana | deadline  | Tema | Documentación| Repositorio 
+--  | --     | --        | --   | --          | --  
+01| semana 1 | 1 Nov | Bufer de memoria | [link] | [WP01](https://classroom.github.com/g/Ra4G34mi) 
+02| semana 2 | 15 Nov | Captura de datos | [link]| [WP02](https://classroom.github.com/g/fTcztVJQ)
+  | semana 3 | 22 Nov | Procesamiento | [link]| 
+03| semana 4 | 29 Nov | Envio de Información | [link]| 
+04| Semana 5 | 6  Dic | Integración | [link] | 
+
+
 
 ## TRABAJO 01- EVALUACIÓN DE MEMORIA  MÁXIMA 
 
