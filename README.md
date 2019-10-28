@@ -71,10 +71,10 @@ Recuerde, todos los paquetes de trabajo son obligatorios
 WP  | semana | deadline  | Tema | Documentación| Repositorio 
 --  | --     | --        | --   | --          | --  
 01| semana 1 | 1 Nov | Bufer de memoria | [link] | [WP01](https://classroom.github.com/g/Ra4G34mi) 
-02| semana 2 | 15 Nov | Captura de datos | [link]| [WP02](https://classroom.github.com/g/fTcztVJQ)
-  | semana 3 | 22 Nov | Procesamiento | [link]| 
-03| semana 4 | 29 Nov | Envio de Información | [link]| 
-04| Semana 5 | 6  Dic | Integración | [link] | 
+02| semana 2 /semana 3 | 15 Nov | Captura de datos | [link]| [WP02](https://classroom.github.com/g/fTcztVJQ)  
+03  | semana 4 | 22 Nov | Procesamiento | [link]| 
+03| semana 5 | 29 Nov | Envio de Información | [link]| 
+04| Semana 8 | 6  Dic | Integración | [link] | 
 
 
 
@@ -98,6 +98,19 @@ Analizar la máxima memoria ram que podemos alojar en la FPGA,  y planear el mé
 
 ### Simulación (TestBench):
 
-Una Vez, resultas las anteriores preguntas se  debe descargar le paquete de trabajo 1 de este link  [WP01](https://classroom.github.com/g/Ra4G34mi) 
+Una Vez, resultas las anteriores preguntas se  debe descargar le paquete de trabajo 1 de este link  [WP01](https://classroom.github.com/g/Ra4G34mi)  revise las instruciones dadas en metodología y documenetación.
+
+Una vez clone el respositorio, realice lo siguiente:
+
+* Comprenda cada linea del codigo HDL del archivo **buffer_ram_dp.v** que se encuentra en la carpera src.
+* Configure los parametros del ancho de palabra **DW**  y tamaño de dirección **AW**, según los resultados dados en la pregunta 1 y 2.
+* Cree el proyecto HDL  donde el top sea **buffer_ram_dp.v**.
+* Modifique el archivo **image.men**, para que contenga todos los pixeles de un solo color  y que corresponda a la memoria calculada.
+* Modifique el archivo **TB_ram**, con el fin de adicionar las estimulos necesarios para simular la lectura y escritura de la memoria ram
+* Revise que el sitema funciona como usted lo esperaba y realice la respectiva publicación del repositorio antes de la fecha dada.
+
+
+
+
 
 
