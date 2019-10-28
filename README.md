@@ -44,7 +44,7 @@ Semana 7: Presentación
 
 ## Metodologia de trabajo 
 
-Para cada paquete de trabajo se debe clonar la plantilla dada, y los resultados del trabajo de cada grupo deben ser subidos antes de la fecha estipulada. se recomienda  leer la ayuda de github classroom en este [link] (https://education.github.com/)
+Para cada paquete de trabajo se debe clonar la plantilla dada, y los resultados del trabajo de cada grupo deben ser subidos antes de la fecha estipulada. se recomienda  leer la ayuda de github classroom en este [link](https://education.github.com/)
 
 Antes de comenzar con cada paquete de trabajo se debe leer las instrucciones  y tener todos los archivos. Para acceder a cada paquete de trabajo debe :
 * Aceptar la asignación de cada link dado. 
@@ -55,9 +55,9 @@ Antes de comenzar con cada paquete de trabajo se debe leer las instrucciones  y 
 	***Nota: Todos los estudaintes debes unise al grupo correspondiente  y tener cuidado de no equivocarse de grupo***
 * una vez realizado el proceso debe clonar el repositorio creado automaticamente en su computador 
 
-´´´
+```
 git clone <link del repositorio>
-´´´
+```
 ## Documentación
 Para todos los paquetes de trabajo se debe  teenr la documentación respectiva, que evidencie el progreso del trabajo, puede hacer uso de fotos, videos código y todo lo que el grupo considere necesario  para explicar los avances que va teniendo. 
 En la evaluación de la documentacion sera  tenida en cuenta la minuciosidad y claridad de la misma.
