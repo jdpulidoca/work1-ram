@@ -98,7 +98,7 @@ Analizar la máxima memoria ram que podemos alojar en la FPGA,  y planear el mé
 
 ### Simulación (TestBench):
 
-Una Vez, resultas las anteriores preguntas se  debe descargar le paquete de trabajo 1 de este link  [WP01](https://classroom.github.com/g/Ra4G34mi)  revise las instruciones dadas en metodología y documenetación.
+Una vez resultas las anteriores preguntas se  debe descargar el paquete de trabajo 01 de este link  [WP01](https://classroom.github.com/g/Ra4G34mi)  revise las instruciones dadas en metodología y documentación.
 
 Una vez clone el respositorio, realice lo siguiente:
 
@@ -108,6 +108,7 @@ Una vez clone el respositorio, realice lo siguiente:
 * Modifique el archivo **image.men**, para que contenga todos los pixeles de un solo color  y que corresponda a la memoria calculada.
 * Modifique el archivo **TB_ram**, con el fin de adicionar las estimulos necesarios para simular la lectura y escritura de la memoria ram
 * Revise que el sitema funciona como usted lo esperaba y realice la respectiva publicación del repositorio antes de la fecha dada.
+
 
 
 
