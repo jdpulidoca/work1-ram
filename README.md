@@ -51,15 +51,18 @@ Antes de comenzar con cada paquete de trabajo se debe leer las instrucciones  y 
 * La aplicación les pregunta si desean crear un grupo nuevo o unirse a uno existente:
 	* Para crear un grupo nuevo coloque "Grupo-xx", donde xx es el número del grupo.
 	* Para unirse a un grupo existente, busque el nombre  y pulse l botón ´join´.
+	
 	***Nota: Todos los estudaintes debes unise al grupo correspondiente  y tener cuidado de no equivocarse de grupo***
+* una vez realizado el proceso debe clonar el repositorio creado automaticamente en su computador 
 
+´´´
 git clone <link del repositorio>
-
+´´´
 ## Documentación
 Para todos los paquetes de trabajo se debe  teenr la documentación respectiva, que evidencie el progreso del trabajo, puede hacer uso de fotos, videos código y todo lo que el grupo considere necesario  para explicar los avances que va teniendo. 
 En la evaluación de la documentacion sera  tenida en cuenta la minuciosidad y claridad de la misma.
 
-La documentación se debe  diligenciar en el formato Markdown del archivo ´README.md´ ubicado en docs. Se recomienda revisar el siguiente [link] (https://guides.github.com/features/mastering-markdown/) que les da una visión rapida de formato usado para hacer la documentación. 
+La documentación se debe  diligenciar en el formato Markdown del archivo ´README.md´ ubicado en docs. Se recomienda revisar el siguiente [link](https://guides.github.com/features/mastering-markdown/) que les da una visión rapida de formato usado para hacer la documentación. 
 
 Recuerde, todos los paquetes de trabajo son obligatorios
 
@@ -83,6 +86,7 @@ Analizar la máxima memoria ram que podemos alojar en la FPGA,  y planear el mé
 
 ### Simulación (TestBench):
 
-Una Vez, resultas las anteriores preguntas se  debe descargar le paquete de trabajo 1 de este link [WP01](https://classroom.github.com/g/Ra4G34mi) 
+Una Vez, resultas las anteriores preguntas se  debe descargar le paquete de trabajo 1 de este link [WP01]
+(https://classroom.github.com/g/Ra4G34mi) 
 
 
